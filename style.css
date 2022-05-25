@@ -29,7 +29,9 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.new-task-input,.item-label,.item-input {
+.new-task-input,
+.item-label,
+.item-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -44,7 +46,8 @@
 .list-item {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
@@ -60,7 +63,9 @@
   color: #3a3a3a;
 }
 /* Heading */
-.new-task-title,.todo-title,.completed-title {
+.new-task-title,
+.todo-title,
+.completed-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
